@@ -55,6 +55,7 @@ data=np.array([2104,3,399900,
 1852,4,299900,
 1203,3,239500,
 ])
+#the data can be changed
 n=input('How many training examples you will provide? ')
 n=int(n) #total no. of training examples
 n2=input('How many features you will provide? ') #total no. of features
