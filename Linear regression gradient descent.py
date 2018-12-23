@@ -8,7 +8,7 @@ Created on Tue Dec 18 09:28:21 2018
 import numpy as np
 
 data=np.loadtxt('LinearRegressionData.txt' ,delimiter=',')
-n=30
+n=32
 n2=2
 m=47
 def feat_scale(X,n,n2):
