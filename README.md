@@ -1,2 +1,4 @@
 # Linear_regression
-This repository contains linear regression problem solution by gradient descent method
+
+I have Successfully implemented Linear Regression Model using Gradient Descent and Regularization.
+The Hypothesis Function used to calculate the value correct output is a Quadratic Function.
